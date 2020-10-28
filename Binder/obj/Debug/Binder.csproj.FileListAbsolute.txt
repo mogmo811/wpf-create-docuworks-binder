@@ -1,0 +1,72 @@
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\bin\Debug\Binder.exe.config
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\bin\Debug\Binder.exe
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\bin\Debug\Binder.pdb
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\MainWindow.g.cs
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\App.g.cs
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\Binder_MarkupCompile.cache
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\Binder_MarkupCompile.lref
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\MainWindow.baml
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\Binder.g.resources
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\Binder.Properties.Resources.resources
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\Binder.csproj.GenerateResource.Cache
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\Binder.csproj.CoreCompileInputs.cache
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\Binder.exe
+c:\users\sakashita2325.kyowant\documents\visual studio 2017\Projects\Binder\Binder\obj\Debug\Binder.pdb
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\bin\Debug\xdwapiwn.dll
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\obj\Debug\Binder.csproj.ResolveComReference.cache
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\obj\Debug\Binder.csprojResolveAssemblyReference.cache
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\obj\Debug\MyWindow\View\InsertionCursor.g.cs
+C:\Users\SAKASHITA2325.KYOWANT\Documents\Visual Studio 2017\Projects\Binder\Binder\obj\Debug\MyWindow\View\InsertionCursor.baml
+E:\Software\MyApp\Binder\Binder\bin\Debug\Binder.exe.config
+E:\Software\MyApp\Binder\Binder\bin\Debug\Binder.exe
+E:\Software\MyApp\Binder\Binder\bin\Debug\Binder.pdb
+E:\Software\MyApp\Binder\Binder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\Software\MyApp\Binder\Binder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\Software\MyApp\Binder\Binder\bin\Debug\Prism.dll
+E:\Software\MyApp\Binder\Binder\bin\Debug\QuickConverter.dll
+E:\Software\MyApp\Binder\Binder\bin\Debug\xdwapiwn.dll
+E:\Software\MyApp\Binder\Binder\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\Software\MyApp\Binder\Binder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+E:\Software\MyApp\Binder\Binder\bin\Debug\Prism.xml
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder.csproj.ResolveComReference.cache
+E:\Software\MyApp\Binder\Binder\obj\Debug\App.g.cs
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder_MarkupCompile.cache
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder_MarkupCompile.lref
+E:\Software\MyApp\Binder\Binder\obj\Debug\Common\ControlResourceDictionary.baml
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder.g.resources
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder.Properties.Resources.resources
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder.csproj.GenerateResource.Cache
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder.csproj.CoreCompileInputs.cache
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder.exe
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder.pdb
+E:\Software\MyApp\Binder\Binder\obj\Debug\Binder.csprojResolveAssemblyReference.cache
+E:\Software\MyApp\Binder\Binder\obj\Debug\MainWindow.g.cs
+E:\Software\MyApp\Binder\Binder\obj\Debug\MainWindow.baml
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Binder.exe.config
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Binder.exe
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Binder.pdb
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Prism.dll
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\QuickConverter.dll
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\xdwapiwn.dll
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+E:\Software\MyApp\Binder\Program\Binder\bin\Debug\Prism.xml
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder.csproj.ResolveComReference.cache
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\MainWindow.g.cs
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\App.g.cs
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder_MarkupCompile.cache
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder_MarkupCompile.lref
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Common\ControlResourceDictionary.baml
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\MainWindow.baml
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder.g.resources
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder.Properties.Resources.resources
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder.csproj.GenerateResource.Cache
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder.exe
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder.pdb
+E:\Software\MyApp\Binder\Program\Binder\obj\Debug\Binder.csprojResolveAssemblyReference.cache
